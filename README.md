@@ -34,6 +34,3 @@ alt="Demo on Youtube" width="240" height="180" border="10" /></a>
 The software flashed on the NodeMCU allows the unit to connect to our MQTT server. This allows us to integrate the unit with the rest of our home automation system. For example by allowing a user to select an input using our wall mounted tablet.
 
 ![mqtt](website/mqtt.jpg)
-
-
-The source code can be found [here](https://github.com/TkkrLab/cyberscart).
