@@ -1,7 +1,7 @@
 ---
 title: "CyberSCART: the IoT SCART switcher"
 date: 2018-05-21
-thumbnail: "thumbnail.jpg"
+thumbnail: "https://github.com/TkkrLab/cyberscart/blob/master/images/thumbnail.jpg"
 ---
 
 We connected our SCART switcher to our home automation system using MQTT using an ESP8266.
