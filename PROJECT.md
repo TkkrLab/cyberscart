@@ -30,7 +30,7 @@ While the conversion process was never fully documented we made some pictures of
 
 As a small extra we also connected the frontpanel leds and button to the NodeMCU, allowing the frontpanel to be used as one would expect of the stock unit.
 
-{{< youtube eNhCCF5G3hs >}}
+{{< youtubenc eNhCCF5G3hs >}}
 
 ## Software
 The software flashed on the NodeMCU allows the unit to connect to our MQTT server. This allows us to integrate the unit with the rest of our home automation system. For example by allowing a user to select an input using our wall mounted tablet.
